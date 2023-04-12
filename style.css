@@ -1,0 +1,86 @@
+header {
+    text-align: center;
+    background: #000;
+    color: #fff;
+    padding: 10px 0;
+
+}
+
+.foto1 {
+    padding: 30px;
+    margin: 10px;
+    float: right;
+    width: 100px;
+}
+
+.foto2 {
+    padding: 30px;
+    margin: 10px;
+    float: right;
+    width: 100px;
+}
+
+.foto3 {
+    padding: 30px;
+    margin: 10px;
+    float: right;
+    width: 100px;
+}
+
+body {
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.noticias.unsl.edu.ar%2Fwp-content%2Fuploads%2F2020%2F08%2FIMG_0404-740x380.jpg&f=1&nofb=1&ipt=9c96287dfafa8020c214f625ed1eeeb7ef9c6bdf46fb1a764394505bf723f27c&ipo=images);
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 120%;
+}
+
+.pg2 {
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+    text-align: left;
+    padding: 30px 0;
+    /* width: 1200px; */
+    /* border: 2px solid #000; */
+    /* margin: 70px 0; */
+
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+section {
+    border: 2px solid #000000;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+    background: #000;
+    color: #fff;
+}
+
+label {
+    display: block;
+    padding: 7px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px inset rgb(0, 0, 0);
+    margin-bottom: 10px;
+    font-size: 120%;
+    text-align: center;
+    background-color: white;
+}
+
+label:hover {
+    background: rgb(0, 0, 0);
+    color: #fff;
+}
